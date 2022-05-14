@@ -1,0 +1,62 @@
+body {
+  background: aliceblue;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  font-size: 80px;
+}
+
+img.croissant-img {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  display: block;
+  text-align: center;
+  font-size: 30px;
+}
+
+.page-links {
+  text-align: center;
+  padding: 10px;
+}
+
+a:visited {
+  color: white;
+}
+
+.homepage-link {
+  border: 1px solid grey;
+  background-color: rgb(64, 119, 163);
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.contact-link {
+  border: 1px solid grey;
+  background-color: rgb(64, 119, 163);
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.photo-link {
+  border: 1px solid grey;
+  background-color: rgb(64, 119, 163);
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.email-link {
+  display: block;
+  text-align: center;
+  margin-bottom: 20px;
+}
